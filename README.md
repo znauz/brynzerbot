@@ -26,3 +26,5 @@ Every command must begin with a '!'
   
 !pic <query>  - search for a picture of something
 
+# Start
+Start the bot with node bot.js
