@@ -14,7 +14,6 @@
     "googleapis": "^34.0.0",
     "ora": "^3.4.0",
     "request": "^2.88.2",
-    "winston": "^3.2.1",
-    "youtube-search": "^1.1.4"
+    "winston": "^3.2.1"
   }
 }
